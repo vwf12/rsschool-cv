@@ -38,7 +38,6 @@
 
 **Other:** VMs(VMWare, VirtualBox, Parallels), Cisco, AutoCAD, FinalCut
 
-[Русская версия](https://www.notion.so/a49f54e9f8a74dc58eb8bc8eca5f8b48)
 
 # 👨‍💻 Work Experience
 
